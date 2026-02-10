@@ -23,4 +23,4 @@ Batch	Name	What It Does	Activation
 6	Resilience Controller	Survives & recovers from crises	Crisis-Activated
 7	Legacy Manager	Preserves wisdom, chooses endings	Audit + Periodic Synthesis
 
-NOTE: I'm not a coder; created the structure with multiple LLM models.
+NOTE: I'm not a Coder; created the structure with multiple LLM models.
